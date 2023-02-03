@@ -1,4 +1,4 @@
-# Project 6: Classification automatique de produits
+# Classification automatique de produits
 
 ## Summary
 
